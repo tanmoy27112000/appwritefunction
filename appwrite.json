@@ -1,0 +1,36 @@
+{
+    "projectId": "6402f1e21f27f51b8288",
+    "projectName": "appwritedemo",
+    "functions": [
+        {
+            "$id": "63f66bed53f9ea031233",
+            "name": "testFunction",
+            "runtime": "dart-2.17",
+            "path": "functions/testFunction",
+            "entrypoint": "lib/main.dart",
+            "ignore": [
+                ".packages",
+                ".dart_tool"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        },
+        {
+            "$id": "6414cef0daa242aca9d5",
+            "name": "wipe_appwrite_collection",
+            "runtime": "dart-2.17",
+            "path": "functions/wipe_appwrite_collection",
+            "entrypoint": "lib/main.dart",
+            "ignore": [
+                ".packages",
+                ".dart_tool"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
