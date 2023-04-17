@@ -4,7 +4,7 @@ import 'package:dart_appwrite/dart_appwrite.dart';
 import 'package:dart_appwrite/models.dart';
 
 /* Example function payload
- {"databaseId":"stage","collectionId":"profiles"}
+ {databaseId:"643da456a1713f34c0ff",collectionId:"643da45d2b6d79156870"}
 
 Successful function response:
 {"success":true}
